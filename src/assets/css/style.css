@@ -1,0 +1,17 @@
+.bg-vue-dark {
+   color: #fff;
+   background: #565a56;
+}
+.hover-class:hover {
+   cursor: pointer;
+   background: #00a808;
+}
+.bg-vue-red {
+   background: #4347be;
+}
+.bg-vue-white {
+   background: #fff;
+}
+.bg-calc {
+   background: rgb(160, 157, 181);
+}
